@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;;
+}
+
+:root{
+  --white: #fff;
+  --blue: #009688;
+  --gray: #777;
+  --dark-white: #fff3f3;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
